@@ -150,3 +150,36 @@ Tableau Public - Dashboard development and data visualization
 Tableau Calculated Fields - Data transformation and metric creation
 Interactive Filters - Dynamic data exploration
 
+**Skills Demonstrated**
+
+Data Visualization
+Dashboard Development
+KPI Design
+Interactive Dashboard Design
+HR Data Analysis
+Data Storytelling
+Trend Analysis
+Demographic Analysis
+Salary and Performance Analysis
+Tableau Calculated Fields
+Dashboard Actions and Navigation
+
+**How to Use**
+
+Open the Tableau Public dashboard using the link above.
+Explore the HR Overview Dashboard to view key workforce metrics and trends.
+Use the available filters to analyze employees by demographics, job role, department, location, salary, employment status, and other criteria.
+Click and interact with visualizations to explore related workforce insights.
+Navigate between the HR Overview and Employee Records dashboards using the dashboard navigation buttons.
+Use the Employee Records dashboard to explore detailed employee-level information.
+
+**Key Insights**
+
+Analyze employee hiring, active workforce, and termination trends.
+Explore employee distribution across departments, job roles, and locations.
+Understand workforce demographics based on gender, age groups, and education levels.
+Analyze the relationship between education level and employee performance.
+Compare salary patterns across gender, education levels, departments, and age groups.
+Explore detailed employee records using interactive filters.
+Support HR decision-making through interactive workforce data analysis.
+
