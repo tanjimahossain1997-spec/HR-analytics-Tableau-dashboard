@@ -30,6 +30,7 @@ The Employee Records dashboard provides a detailed view of employee information 
 **Key Analysis Areas**
 
 **1. Workforce Overview**
+
 The dashboard provides key workforce metrics, including:
 Total number of employees hired
 Total active employees
@@ -39,6 +40,7 @@ Employee distribution across departments and job roles
 Employee distribution across locations
 
 **2. Demographic Analysis**
+
 The dashboard analyzes the composition of the workforce through:
 Gender distribution
 Employee age groups
@@ -48,6 +50,7 @@ Number of employees within each education level
 Relationship between education level and employee performance
 
 **3. Income Analysis**
+
 The income analysis explores salary patterns across the organization, including:
 Salary comparison across education levels
 Salary comparison between genders
@@ -56,6 +59,7 @@ Salary patterns across departments and roles
 These visualizations help identify potential patterns and differences within the workforce.
 
 **4. Geographic Analysis**
+
 The dashboard provides insights into the geographic distribution of employees, including:
 Employee distribution by city
 Employee distribution by state
@@ -63,6 +67,7 @@ Employee distribution across different locations
 Comparison of employees across organizational locations
 
 **5. Employee Records**
+
 The Employee Records dashboard provides detailed employee-level information.
 Users can explore employee records based on:
 Employee ID
@@ -82,9 +87,11 @@ Termination Year
 Length of Employment
 
 **Interactive Features**
+
 The dashboard was designed to allow users to explore the data interactively.
 
 **Interactive Filters**
+
 Users can filter the employee data based on multiple categories, including:
 Demographics
 Job Title
@@ -97,6 +104,7 @@ Termination Year
 Length of Employment
 
 **Dashboard Navigation**
+
 Interactive navigation buttons allow users to switch between the:
 
 HR Dashboard Overview
@@ -105,6 +113,7 @@ Employee Records
 This allows users to move easily between high-level workforce analysis and detailed employee-level information.
 
 **Calculated Fields**
+
 Tableau calculated fields were used to create and support important HR metrics and analyses.
 These calculations were used to derive meaningful information from the raw employee data and highlight important workforce patterns within the dashboard.
 Examples include calculations used for:
@@ -117,6 +126,7 @@ Length of employment analysis
 Other dashboard metrics and visual indicators
 
 **Dataset**
+
 The project uses a Human Resources dataset containing employee information such as:
 Employee ID
 Employee Name
@@ -135,6 +145,7 @@ State
 Location
 
 **Tools and Technologies**
+
 Tableau Public - Dashboard development and data visualization
 Tableau Calculated Fields - Data transformation and metric creation
 Interactive Filters - Dynamic data exploration
