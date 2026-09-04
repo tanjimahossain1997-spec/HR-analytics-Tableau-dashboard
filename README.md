@@ -183,3 +183,10 @@ Compare salary patterns across gender, education levels, departments, and age gr
 Explore detailed employee records using interactive filters.
 Support HR decision-making through interactive workforce data analysis.
 
+### Author
+
+**Tanjima Hossain**
+
+- **GitHub:** https://github.com/tanjimahossain1997-spec
+- **Tableau Public:** https://public.tableau.com/app/profile/tanjima.hossain4365
+- **LinkedIn:** https://linkedin.com/in/tanjima-hossain-1a931816b
