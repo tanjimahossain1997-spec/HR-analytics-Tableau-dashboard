@@ -20,10 +20,12 @@ The Overview dashboard provides a high-level summary of the organization's workf
 
 <img width="930" height="529" alt="image" src="https://github.com/user-attachments/assets/e3757b80-476c-4a11-8690-16cf0567431d" />
 
+
 Employee Records
 The Employee Records dashboard provides a detailed view of employee information and allows users to filter and explore the workforce based on multiple criteria.
 
 <img width="930" height="528" alt="image" src="https://github.com/user-attachments/assets/2cbd57da-a298-4731-9255-19b482117094" />
+
 
 **Key Analysis Areas**
 
