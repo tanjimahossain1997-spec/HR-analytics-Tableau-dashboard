@@ -116,6 +116,24 @@ Employee categorization
 Length of employment analysis
 Other dashboard metrics and visual indicators
 
+**Dataset**
+The project uses a Human Resources dataset containing employee information such as:
+Employee ID
+Employee Name
+Gender
+Age
+Education Level
+Job Title
+Department
+Salary
+Performance Rating
+Employment Status
+Hire Date
+Termination Date
+City
+State
+Location
+
 **Tools and Technologies**
 Tableau Public - Dashboard development and data visualization
 Tableau Calculated Fields - Data transformation and metric creation
